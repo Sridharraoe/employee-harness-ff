@@ -22,7 +22,7 @@ import lombok.RequiredArgsConstructor;
 public class FeatureFlagController {
     Logger logger = LoggerFactory.getLogger(FeatureFlagController.class);
     
-    static FeatureFlagService featureFlagsService = new FeatureFlagService("9840cd03-3362-4e88-8914-e13736af5505");
+    static FeatureFlagService featureFlagsService = new FeatureFlagService("6f0af4a2-172c-4f10-b7b0-59fd32e7cdd3");
     
     FeatureFlagController(){
     	
